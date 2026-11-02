@@ -48,25 +48,25 @@ This project focuses on setting up a basic cybersecurity lab environment using K
 
 Opened Oracle VirtualBox and configured the Kali Linux virtual machine.
 
-![VirtualBox Manager](Screenshots/01-virtualbox.png.jpeg)
+![VirtualBox Manager](Screenshots/01-virtualbox.png)
 
 ### Step 2: Hardware Configuration
 
 Allocated 4096 MB RAM and 2 CPU cores to the virtual machine.
 
-![VM Hardware Settings](Screenshots/02-vm-settings.png.jpeg)
+![VM Hardware Settings](Screenshots/02-vm-settings.png)
 
 ### Step 3: Network Configuration
 
 Configured a NAT Network named `NatNetwork` and enabled DHCP to allow the virtual machine to obtain network configuration automatically.
 
-![NAT Network Configuration](Screenshots/03-nat-network.png.jpeg)
+![NAT Network Configuration](Screenshots/03-nat-network.png)
 
 ### Step 4: Kali Linux Startup
 
 Started the Kali Linux virtual machine and verified that the operating system loaded successfully.
 
-![Kali Linux Desktop](Screenshots/04-kali-desktop.png.jpeg)
+![Kali Linux Desktop](Screenshots/04-kali-desktop.png)
 
 ### Step 5: Network Verification
 
@@ -82,13 +82,13 @@ nslookup networkwalks.com
 nmap --version
 ```
 
-![Network Verification](Screenshots/05-network-verification.png.jpeg)
+![Network Verification](Screenshots/05-network-verification.png)
 
 ### Step 6: Snapshot Creation
 
 Created a snapshot named `Clean Kali - Network Setup` to preserve the working lab configuration and provide a recovery point.
 
-![Kali Snapshot](Screenshots/06-kali-snapshot.png.jpeg)
+![Kali Snapshot](Screenshots/06-kali-snapshot.png)
 
 ## 6. Learning Outcomes
 
