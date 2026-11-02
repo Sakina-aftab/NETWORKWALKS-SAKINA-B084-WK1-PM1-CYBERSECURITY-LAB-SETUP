@@ -3,7 +3,7 @@
 
 **Name:** Sakina Aftab  
 **Batch:** B084  
-**Program:** Cybersecurity Internship – Networkwalks  
+**Program:** Networkwalks Cybersecurity Internship  
 **Week:** 01  
 **Project:** Cybersecurity Lab Setup
 
@@ -72,7 +72,7 @@ Started the Kali Linux virtual machine and verified that the operating system lo
 
 Used terminal commands to check network interfaces, routing, internet connectivity, DNS resolution, and Nmap installation.
 
-Commands used:
+**Commands used:**
 
 ```bash
 ip a
@@ -107,5 +107,6 @@ The Week 1 project successfully established a Kali Linux environment using Oracl
 
 ---
 
-**Program:** Networkwalks Cybersecurity Internship  
-**#Networkwalks**
+**Networkwalks Cybersecurity Internship – Batch B084**
+
+#Networkwalks #Cybersecurity #KaliLinux #VirtualBox
